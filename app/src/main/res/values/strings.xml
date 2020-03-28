@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">UTS Project Zahra</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_recommended">Recommended</string>
+    <string name="menu_now">Now Showing</string>
+    <string name="menu_soon">Coming Soon</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_profile">My Profile</string>
+
+    <string name="title_now">7 Cinema Films Currently Airing</string>
+    <string name="title_soon">7 Cinema Films Come Out This Year</string>
+    <string name="title_recommended">7 Recommendations for Cinema Films</string>
+
+    <string name="title_movie">Title Movie</string>
+    <string name="desc_movie">Description Movie</string>
+
+    <string-array name="movie_title_now">
+        <item>The Invisible Man</item>
+        <item>Milea: Suara Dari Dilan</item>
+        <item>Riki Rhino</item>
+        <item>Sebelum Iblis Menjemput: Ayat 2</item>
+        <item>Toko Barang Mantan</item>
+        <item>Teman Tapi Menikah 2</item>
+        <item>The Call Of The Wild</item>
+    </string-array>
+
+    <string-array name="movie_desc_now">
+        <item>Cecilia Kass (Elisabeth Moss) yang terjebak dalam hubungan pernikahan tak sehat dengan Adrian (Oliver Jackson), seorang ilmuwan pintar dan kaya raya. Cecilia selama ini selalu menjadi korban kekerasan dengan kehidupan di bawah kontrol suami.\n\n
+        Suatu hari, suami Cecilia dilaporkan meninggal karena bunuh diri. Adrian memberikan warisan dalam jumlah luar biasa, US$5 juta atau setara dengan Rp69,9 miliar dengan syarat istrinya harus sehat secara mental.
+        </item>
+        <item>Film ini bercerita tentang Bandung yang kembali ke era 90-an. Panglima tempur salah satu geng motor, Dilan (Iqbaal Ramadhan) menjalin hubungan dengan seorang siswi baru dari Jakarta bernama Milea (Vanesha Prescilla).\n\n
+        Jalinan hubungan antara Milea dan Dilan ternyata membuat teman-temannya berpikir berbeda, Dilan mulai terasa jauh dengan anggota geng. Suatu hari terjadi peristiwa mengerikan, salah satu anggota geng motor, Akew (Gusti Rayhan) meninggal akibat dikeroyok oleh sekelompok orang.
+        </item>
+        <item>Riki Rhino akan bercerita tentang karakter Riki, seekor badak Sumatera muda. Sehari-hari, dia menjalani kehidupan di hutan seperti biasa. Riki biasa berkegiatan di hutan yang masih asri dengan sungai yang mengalir jernih, pohon-pohon mencuat dengan daun-daun yang hijau dan rindang serta cuitan para burung yang beterbangan.\n\n
+        Sayangnya, ketenangan hutan terusik oleh segerombolan pemburu pimpinan Mr. Jak yang datang dengan menggunakan perahu mesin melalui sungai. Mereka mengincar banyak hewan untuk ditangkap. Salah satu buruan utamanya adalah cula dari Riki.
+        </item>
+        <item>Alfie (Chelsea Islan) dan Nara (Hadijah Shahab) mencoba melanjutkan kehidupan setelah dua tahun lepas dari teror iblis. Namun, Alfie ternyata dihantui perasaan bersalah dan kerap mendapat penglihatan tidak wajar.\n\n
+        Di tengah perasaan itu, Alfie bertemu beberapa anak panti asuhan, Budi (Baskara Mahendra), Gadis (Widika Sidrome), Jenar (Shareefa Daanish), Martha (Karina Salim), Leo (Arya Vasco), dan Kristi (Lutesha). Ternyata, mereka juga dihantui kutukan.
+        </item>
+        <item>Tristan (Reza Rahadian) yang  menjalankan sebuah toko bernama Toko Barang Mantan. Apa itu? Toko Barang Mantan merupakan toko jual-beli barang-barang mantan bagi orang-orang yang ingin move-on dari mantannya. Sebagai pencetus ide, pendiri dan pemiliknya, Tristan rela meninggalkan kuliah hukumnya demi bisa fokus mengembangkan toko ini bersama sahabatnya, Amel (Dea Panendra) dan Rio (Iedil Dzuhrie Alaudin).\n\n
+        Berbagai macam kisah sedih, lucu dan absurd tentang barang-barang tersebut menjadi makanan mereka sehari-hari. Tristan bangga dengan toko ini meskipun akhir-akhir ini sepi dan mulai bermasalah secara finansial. Tiba-tiba, kehadiran Laras (Marsha Timothy), mantan Tristan saat kuliah dulu, membuat dunianya jungkir balik.
+        </item>
+        <item>Belum puas menikmati momen sebagai pasangan baru, Ayu tiba-tiba hamil dan kepribadiannya berubah total. Dari yang awalanya semangat menemani Ditto ke mana-mana, ia jadi mager dan parahnya menjadi super sensitif.\n\n
+        Ditto pun harus menahan diri dan berpura-pura tidak cemburu dengan perhatian yang Ayu berikan ke si janin. Pertengkaran yang sering terjadi membuat Ayu dan Ditto harus memilih mana yang mau dipertahankan, pernikahan mereka atau si bayi?
+        </item>
+        <item>Seekor anjing bernama Buck dicuri dari pemiliknya yang kaya raya. Anjing tersebut harus bertahan sendirian di area yang dingin di daerah paling ujung Amerika Serikat.\n\n
+        Pada akhirnya, ia bertemu dengan John Thornton (Harrison Ford) yang mengadopsi dan memberikannya rumah. Buck juga masuk ke dalam regu anjing penarik kereta salju di tengah wabah Demam Emas Klondike dimana mereka ditugaskan untuk mengantarkan obat-obatan.
+        </item>
+    </string-array>
+
+    <array name="movie_photo_now">
+        <item>@drawable/poster_invisible</item>
+        <item>@drawable/poster_milea</item>
+        <item>@drawable/poster_rikirhino</item>
+        <item>@drawable/poster_sim</item>
+        <item>@drawable/poster_tbm</item>
+        <item>@drawable/poster_ttm</item>
+        <item>@drawable/poster_wild</item>
+    </array>
+
+    <string-array name="movie_title_recommended">
+        <item>Imperfect</item>
+        <item>Nanti Kita Cerita Tentang Hari Ini</item>
+        <item>Dignitate</item>
+        <item>Nikah Yuk!</item>
+        <item>Milea: Suara Dari Dilan</item>
+        <item>Mariposa</item>
+        <item>Mulan</item>
+    </string-array>
+
+    <string-array name="movie_desc_recommended">
+        <item>Rara (diperankan Jessica Mila) yang terlahir dengan gen gemuk dan kulit sawo matang, warisan sang ayah. Sementara, adiknya Lulu (Yasmin Napper) mengikuti gen ibu mereka Debby (Karina Suwandi) yang merupakan mantan peragawati tahun 1990-an.\n\n
+        Rara bekerja sebagai manajer riset di sebuah perusahaan kosmetik. Meski mendapat perlakuan tidak menyenangkan dari lingkungan sekitar, tapi ia mencintai pekerjaannya. Untung ada Dika (Reza Rahadian), kekasih yang mencintai Rara apa adanya.
+        </item>
+        <item>Film berkisah tentang tiga kakak beradik, yakni Angkasa (Rio Dewanto), Aurora (Sheila Dara Aisha) dan Awan (Rachel Amanda). Kisah berjalin dari tiga sudut pandang dan linimasa berbeda.\n\n
+        Setelah mengalami kegagalan besar pertamanya, Awan berkenalan dengan Kale, seorang cowok eksentrik yang memberikan pengalaman hidup baru, tentang patah, bangun, jatuh, tumbuh, hilang dan semua ketakutan manusia pada umumnya.
+        </item>
+        <item>Alfi yang merupakan seorang anak SMA yang galak dan dingin. Walaupun banyak perempuan yang menyukainya, Alfi tidak punya waktu untuk pacaran. Dia sangat serius dengan pelajaran di sekolahnya.\n\n
+        Sementara sahabat Alfi, Keenan memiliki sifat yang berbanding terbalik dengannya. Keenan selalu menyuruh Alfi agar lebih santai. Pada suatu hari Alfi terlambat sekolah sehingga harus membersihkan toilet perempuan. Di sana ia bertemu dengan Alana, siswi baru yang cantik di sekolah.\n\n
+        </item>
+        <item>Arya (Marcell Darwin) seorang fotografer yang dipaksa menikah muda oleh orang tuanya. Arya menolak karena masih ingin mengejar karir dan mempertahankan hubungan dengan pacar pilihannya, Neyna (Aliyah Faizah).\n\n
+        Kedua orang tuanya membuat strategi untuk menjodohkannya, hingga suatu hari Arya tidak sengaja bertemu Lia (Yuki Kato), seorang komikus muda. Pertemuannya dengan Lia membawa Arya ke dalam kebimbangan, jatuh dan patah hati secara bersamaan.
+        </item>
+        <item>Film ini bercerita tentang Bandung yang kembali ke era 90-an. Panglima tempur salah satu geng motor, Dilan (Iqbaal Ramadhan) menjalin hubungan dengan seorang siswi baru dari Jakarta bernama Milea (Vanesha Prescilla).\n\n
+        Jalinan hubungan antara Milea dan Dilan ternyata membuat teman-temannya berpikir berbeda, Dilan mulai terasa jauh dengan anggota geng. Suatu hari terjadi peristiwa mengerikan, salah satu anggota geng motor, Akew (Gusti Rayhan) meninggal akibat dikeroyok oleh sekelompok orang.
+        </item>
+        <item>Menceritakan Acha yang bertekad mendapatkan hati Iqbal. Jika hati Iqbal sekeras batu, Acha adalah air yang menetesinya setiap waktu.\n\n
+        Film ini tayang di bioskop mulai 12 Maret 2020.
+        </item>
+        <item>Dibintangi Liu Yifei sebagai karakter utama Mulan putri tertua Hua Zhou yang menentang tradisi dan hukum dengan menyamar sebagai seorang pria untuk mendaftarkan diri di Angkatan Darat Kekaisaran menggantikan ayahnya yang sakit.\n\n
+        Film \'Mulan\' akan tayang pada tanggal 27 Maret 2020.
+        </item>
+    </string-array>
+
+    <array name="movie_photo_recommended">
+        <item>@drawable/poster_imperfect</item>
+        <item>@drawable/poster_nkcthi</item>
+        <item>@drawable/poster_dignitate</item>
+        <item>@drawable/nikah_yuk</item>
+        <item>@drawable/poster_milea</item>
+        <item>@drawable/poster_mariposa</item>
+        <item>@drawable/poster_mulan</item>
+    </array>
+
+    <string-array name="movie_title_soon">
+        <item>Aku Tahu Kapan Kamu Mati</item>
+        <item>Bloodshot</item>
+        <item>KKN Desa Penari</item>
+        <item>Mariposa</item>
+        <item>Mekah I\'m Coming</item>
+        <item>Mulan</item>
+        <item>Trolls World Tour</item>
+    </string-array>
+
+    <string-array name="movie_desc_soon">
+        <item>Menceritakan Siena, yang sempat mati suri dan kini bisa melihat tanda-tanda seseorang yang akan mati. Dibintangi oleh Natasha Wilona, Ria Ricis, Al Ghazali, Fitria Rasyidi, Sonia Alexa, Ryma Gembala, Rita Nurmaliza, Elizabeth Christine, Adinda Halona, Opie Kumis, Asri Welas, Catherine Wilson, dan Daus Separo.\n\n
+         Film ini tayang di bioskop mulai 5 Maret 2020.
+        </item>
+        <item>Ray Garrison atau Bloodshot, seorang prajurit yang telah meninggal dunia namun kemudian dibangkitkan oleh Rising Spirit Technologies melalui penggunaan nanoteknologi. Menderita karena kehilangan memori dan masa lalunya, ia juga mendapat berbagai kemampuan baru yang mengejutkan. Ray kemudian berjuang untuk mencari jati dirinya serta masa lalunya ia juga harus mencari incormasi mengenai kemampuan barunya tersebut, Ia dibantu oleh tim yang diberi nama sandi Chainsaw.\n\n
+        </item>
+        <item>Diadaptasi dari cerita horor yang viral di Twitter, film KKN Desa Penari mengisahkan sekelompok mahasiswa yang melaksanan KKN (Kuliah Kerja Nyata) di desa terpencil yang menyimpan banyak rahasia.\n\n
+        Film ini tayang di bioskop mulai 19 Maret 2020.
+        </item>
+        <item>Menceritakan Acha yang bertekad mendapatkan hati Iqbal. Jika hati Iqbal sekeras batu, Acha adalah air yang menetesinya setiap waktu.\n\n
+        Film ini tayang di bioskop mulai 12 Maret 2020.
+        </item>
+        <item>Berkisah tentang Eddy yang gagal berangkat haji karena ditipu agen travel. Sepulang ke rumahnya ia harus berpura-pura pulang haji supaya bisa menikahi pacarnya Eni.\n\n
+        Tayang di bioskop mulai 5 Maret 2020.
+        </item>
+        <item>Dibintangi Liu Yifei sebagai karakter utama Mulan putri tertua Hua Zhou yang menentang tradisi dan hukum dengan menyamar sebagai seorang pria untuk mendaftarkan diri di Angkatan Darat Kekaisaran menggantikan ayahnya yang sakit.\n\n
+        Film \'Mulan\' akan tayang pada tanggal 27 Maret 2020.
+        </item>
+        <item>Poppy (voice: Anna Kendrick) dan Branch (voice: Justin Timberlake) menemukan bahwa keduanya hanyalah satu dari enam suku Troll yang berbeda juga terpencar di enam negeri berbeda, dikhususkan untuk enam jenis musik berbeda yaitu Funk, Country, Techno, Klasik, Pop dan Rock. Dunia mereka akan menjadi jauh lebih besar dan jauh lebih keras.\n\n
+        Mulai Rilis: 20 Maret 2020.
+        </item>
+    </string-array>
+
+    <array name="movie_photo_soon">
+        <item>@drawable/poster_atkkm</item>
+        <item>@drawable/poster_bloodshot</item>
+        <item>@drawable/poster_kkn</item>
+        <item>@drawable/poster_mariposa</item>
+        <item>@drawable/poster_mekah</item>
+        <item>@drawable/poster_mulan</item>
+        <item>@drawable/poster_trolls</item>
+    </array>
+
+</resources>
